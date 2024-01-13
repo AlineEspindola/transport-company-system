@@ -11,9 +11,9 @@ Por meio das aulas de engenharia de software, fui construindo esse sistema.
 
 Primeiramente, criei uma entrevista fictícia para montar os requisitos do software:
 
--  O que vocês querem no seu sistema? 
--  Quais informações vocês querem no cadastro do cliente? (nome, CPF, email, telefone, endereço)
--  Quais informações vocês querem no cadastro do funcionário? (nome, CPF, email, telefone, endereço)
+-  O que você quer no seu sistema? 
+-  Quais informações você quer no cadastro do cliente? (nome, CPF, email, telefone, endereço)
+-  Quais informações você quer no cadastro do funcionário? (nome, CPF, email, telefone, endereço)
 -  Como o cliente se conectará com a transportadora? (sistematizado, mensagem)
 -  Quais dados do objeto você quer? (fragilidade, peso, tamanho)
 -  Quais informações da rota você quer? (distância, tempo, dificuldade, tráfego) 
