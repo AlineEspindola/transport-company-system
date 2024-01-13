@@ -235,7 +235,7 @@ Também criei diagramas para visualizar melhor esses casos.
 
 ![diagrama2](https://github.com/AlineEspindola/SistemadeTransportadora/assets/117865319/ccbf3aef-8910-4d16-882d-25b11f8355b9)
 
-## Conclusãp
+## Conclusão
 
 O projeto de sistema de transportadora, desenvolvido durante o meu curso técnico de informática, proporcionou uma valiosa experiência na aplicação prática de conceitos de engenharia de software para mim. A abordagem, que incluiu entrevistas fictícias, levantamento de requisitos, casos de uso e diagramas, permitiu uma compreensão clara das necessidades dos usuários. Apesar das limitações da duração da disciplina, a elaboração dos casos de uso e diagramas ofereceu uma visão organizada das funcionalidades do sistema. A experiência adquirida, especialmente ao lidar com restrições de tempo, será fundamental para futuros projetos na área de desenvolvimento de software.
 
