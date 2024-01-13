@@ -1,4 +1,4 @@
-# 🚚 SistemadeTransportadora 🚚
+# 🚚 Sistema de Transportadora 🚚
 Um projeto criado no curso técnico de informática para uma empresa fictícia de transportadora. É um sistema que serve para os clientes cadastrarem seus produtos e os funcionários receberem esses itens e colocarem na rota correta. Como o intuito era aprender, é apenas um sistema básico para aprimorar os conhecimentos na engenharia de software de forma geral.
 
 ![sistemadetransportadora](https://github.com/AlineEspindola/SistemadeTransportadora/assets/117865319/fe57a058-fd9b-4286-a1d4-27d6cbaff439)
