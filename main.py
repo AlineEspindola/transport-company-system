@@ -7,7 +7,7 @@ frete=30
 cliente1=Cliente("123", "Aline Espindola", "Rua Y", 8293642, "A@gmail.com", "A", "1")
 produto1=Produto(1, "Cama", "Rua V", 5, 2, 6, "Baixa", 34, "Pix", cliente1, 1, "Rua X", "Pendente", frete)
 produto2=Produto(2, "Porta", "Rua A", 3, 6, 6, "Baixa", 10, "Pix", cliente1, 1, "Rua X", "Pendente", frete)
-funcionario1=Funcionario("123", "Sidney Espindola", "Rua P", 8245642, "S@gmail.com", "S", "1", 9500)
+funcionario1=Funcionario("123", "Roberto Oliveira", "Rua P", 8245642, "S@gmail.com", "S", "1", 9500)
 
 clientes=[cliente1]
 produtos=[produto1, produto2]
