@@ -250,6 +250,10 @@ O projeto de sistema de transportadora, desenvolvido durante o meu curso técnic
   
 </div>
 
+<hr>
+
+### Licença: GNU GENERAL PUBLIC LICENSE
+
 
 
 
