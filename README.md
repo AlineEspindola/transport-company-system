@@ -252,7 +252,7 @@ O projeto de sistema de transportadora, desenvolvido durante o meu curso técnic
 
 <hr>
 
-### Licença: GNU GENERAL PUBLIC LICENSE
+### Licença: MIT
 
 
 
